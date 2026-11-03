@@ -1,1 +1,1 @@
-print("how far na se today in lekki")
+print("how far na se make dem align Naija")
