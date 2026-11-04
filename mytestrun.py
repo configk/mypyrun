@@ -1,1 +1,1 @@
-print("how far na se make dem align Naija")
+print("what is the goal of content building")
