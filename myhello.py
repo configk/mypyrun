@@ -1,1 +1,1 @@
-print("what is inspiring Data transparency in our politics")
+print("what an inspiration is our Naija High life gbabe..")
