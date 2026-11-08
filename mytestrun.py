@@ -1,1 +1,1 @@
-print("what is the goal of content building")
+print("what are interesting points on agentic AI")
