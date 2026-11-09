@@ -1,1 +1,1 @@
-print("what an inspiration is our Naija High life gbabe...")
+print("Elegushi beach was quite fun")
