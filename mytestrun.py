@@ -1,1 +1,1 @@
-print("what are interesting points on agentic AI")
+print("This is quite an interesting news. Much needed")
