@@ -1,1 +1,1 @@
-print("Nana Ampadu honestly rocks. Huge Respect ")
+print("This our politics is thought provoking..whats going on ")
