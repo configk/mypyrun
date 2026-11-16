@@ -1,1 +1,1 @@
-print("Still producing big jamz out here")
+print("recognizing and accepting nobody perfect padi me")
