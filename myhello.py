@@ -1,1 +1,1 @@
-print("This our politics is thought provoking..whats going on ")
+print("Jejeli dey do my thing even do they no... ")
