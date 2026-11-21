@@ -1,1 +1,1 @@
-print("Jejeli dey do my thing even do they no... ")
+print("dem obidient dey ginger gan. naija which way ")
